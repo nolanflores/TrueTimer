@@ -1,0 +1,167 @@
+[
+    {
+        "type":"simple",
+        "message":"Drink a glass of concoction",
+        "reward":30,
+        "maximum":null
+    },
+    {
+        "type":"simple",
+        "message":"Jump in the pool for a minute",
+        "reward":15,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Jump in the pool for a minute after 5 minutes in the hot tub",
+        "reward":20,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Text \"Balls\" to a random contact",
+        "reward":20,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Send a selfie to a non-relative girl",
+        "reward":10,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Get Five-Starred",
+        "reward":5,
+        "maximum":5
+    },
+    {
+        "type":"simple",
+        "message":"Get hit in the balls by a wiffle ball bat",
+        "reward":20,
+        "maximum":2
+    },
+    {
+        "type":"simple",
+        "message":"Buy/Take viagra before resuming Amy Schumer",
+        "reward":30,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Buy condoms at a cashier",
+        "reward":15,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Take a shot of Sriracha",
+        "reward":20,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Petition 10 people for mandatory abortion",
+        "reward":60,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Walk across 6 feet of legos",
+        "reward":30,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Share something weird/personal with a stranger",
+        "reward":15,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Buy a stuffed animal and ask the cashier what they think of furries",
+        "reward":20,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Have a Soccer ball kicked at you",
+        "reward":15,
+        "maximum":1
+    },
+    {
+        "type":"simple",
+        "message":"Buy a pint of icecream and tell the cashier you are going to cry to sleep",
+        "reward":30,
+        "maximum":1
+    },
+
+
+    {
+        "type":"pass",
+        "message":"Tortilla pack car challenge",
+        "reward":30,
+        "penalty":0,
+        "maximum":1
+    },
+    {
+        "type":"pass",
+        "message":"Make a free throw shot",
+        "reward":20,
+        "penalty":10,
+        "maximum":1
+    },
+    {
+        "type":"pass",
+        "message":"Take an online calculus test and get a 70% or higher",
+        "reward":30,
+        "penalty":0,
+        "maximum":1
+    },
+    {
+        "type":"pass",
+        "message":"Run a 7:30 or faster milk mile",
+        "reward":30,
+        "penalty":0,
+        "maximum":1
+    },
+    {
+        "type":"pass",
+        "message":"Complete sally tricep dips",
+        "reward":20,
+        "penalty":0,
+        "maximum":1
+    },
+    {
+        "type":"pass",
+        "message":"Get half the ammount of COD kills as Andrew",
+        "reward":20,
+        "penalty":0,
+        "maximum":1
+    },
+
+
+
+    {
+        "type":"time",
+        "message":"Facetime Mussy, additional -15 for each minute of the call",
+        "penalty":0,
+        "maximum":1,
+        "minimum":15,
+        "increment":15
+    },
+    {
+        "type":"time",
+        "message":"Facetime random contact, additional -10 for each minute of the call",
+        "maximum":1,
+        "minimum":10,
+        "increment":10
+    },
+    {
+        "type":"time",
+        "message":"Watch gay porn, 1 minute of porn = 3 minutes of Amy",
+        "maximum":null,
+        "minimum":3,
+        "increment":3
+    }
+]
