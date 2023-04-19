@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "TrueTimer",
+    "name": "Schumer Timer",
     "slug": "TrueTimer",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,12 +20,17 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#088404"
+      },
+      "package": "com.nomas.TrueTimer"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2d1b95a9-b3da-4ea7-930e-4c42965fd337"
+      }
     }
   }
 }
-

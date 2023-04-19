@@ -2,6 +2,13 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import { StatusBar } from 'expo-status-bar';
 
+/*
+npm install -g expo-cli
+expo update
+
+npm i @expo/config-plugins@5.0.0
+*/
+
 import Home from "./screens/home.js";
 import Tasks from "./screens/tasks.js";
 import End from "./screens/end.js";
